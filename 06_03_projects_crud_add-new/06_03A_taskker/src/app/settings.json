@@ -1,0 +1,15 @@
+{
+    "appSettings": {
+        "baseAPI": "http://localhost:3003/api",
+        "smtpServer": "smtp.academmia.ro",
+        "smtpUser": "admin@academmia.ro",
+        "replyTo": "contact@academmia.ro",
+        "smtpPort": 25
+    },
+    "userSettings": {
+        "notifyOnTaskChange": false
+    },
+    "profileData": {
+        "isAdmin": true
+    }
+}

@@ -1,0 +1,21 @@
+
+.page-main {
+    background: #fff;
+}
+
+.header {
+    background: #fff;
+}
+
+.page-main > .header:nth-child(1) {
+    background: #fff;
+}
+
+.nav-tabs .nav-link.active {
+    color: #467fcf;
+}
+
+.nav-tabs {
+    color: #9aa0ac;;
+}
+

@@ -1,0 +1,7 @@
+{
+	"development": {
+		"port": "3344",
+		"host": "localhost"
+	},
+	"secret": "34234#1@!asdasd"
+}

@@ -1,0 +1,9 @@
+{
+    "nav.home": "Acasa",
+    "nav.profile": "Profil",
+    "nav.app-settings": "Setari App",
+    "nav.gallery": "Galerie",
+    "nav.docmanager": "Documente",
+    "nav.projects": "Proiecte",
+    "footer.desc": "<app>Taskker</app> - <desc>Sistem de Management al Task-urilor</desc>"
+}

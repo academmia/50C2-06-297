@@ -1,0 +1,6 @@
+{
+    "files.watcherExclude": {
+        "**/.vscode/**": true
+    },
+    "workbench.colorTheme": "Monokai"
+}

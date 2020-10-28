@@ -1,0 +1,25 @@
+{
+  "short_name": "Taskker",
+  "name": "Simple Project Manager",
+  "icons": [
+    {
+      "src": "logo48.png",
+      "type": "image/png",
+      "sizes": "48x48"
+    },
+    {
+      "src": "logo192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "logo480.png",
+      "type": "image/png",
+      "sizes": "480x480"
+    }    
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
